@@ -1,0 +1,7 @@
+name: data_eats
+dependencies:
+  - python=3.6
+  - pip:
+    - Pelican==3.7.1
+    - Markdown==2.6.11
+    - typogrify==2.0.7
